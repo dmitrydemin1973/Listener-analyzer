@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 # '''
-# A script to analyze the Oracle listener log
+# A script to analyze the Oracle listener logs
 # '''
 
 import os.path
